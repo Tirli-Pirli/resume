@@ -1,0 +1,98 @@
+{
+    "en": {
+        "header": {
+            "name": "JURGIS AUDICKAS",
+            "title" : "Programmer"
+        },
+        "about": {
+            "title": "About Me",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue egestas, dapibus justo et, lobortis ex. Nullam tortor diam, venenatis at enim a, lacinia porttitor erat. Vivamus tempor dictum leo id aliquam. Praesent elit lacus, tempus ac vehicula in, imperdiet dapibus elit. Nullam scelerisque euismod leo id vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam."
+        },
+        "personalSkills": {
+            "title": "Personal Skills",
+            "skills": [
+                {
+                    "name": "TEAMWORK",
+                    "level": "advanced"
+                },
+                {
+                    "name": "COMMUNICATION",
+                    "level": "Intermediate"
+                },
+                {
+                    "name": "ORGANIZATION",
+                    "level": "Beginner"
+                }
+            ]
+        },
+        "technicalSkills": {
+            "title": "Technical Skills",
+            "skills": [
+                {
+                    "name": "HTML",
+                    "level": "advanced"
+                },
+                {
+                    "name": "CSS/SCSS",
+                    "level": "advanced"
+                },
+                {
+                    "name": "JAVASCRIPT",
+                    "level": "Beginner"
+                },
+                {
+                    "name": "REACT.JS",
+                    "level": "Beginner"
+                }
+            ]
+        }
+    },
+    "lt": {
+        "header": {
+            "name": "JURGIS AUDICKAS",
+            "title" : "Programuotojas"
+        },
+        "about": {
+            "title": "Apie mane",
+            "content": " Lietuviskas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue egestas, dapibus justo et, lobortis ex. Nullam tortor diam, venenatis at enim a, lacinia porttitor erat. Vivamus tempor dictum leo id aliquam. Praesent elit lacus, tempus ac vehicula in, imperdiet dapibus elit. Nullam scelerisque euismod leo id vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam."
+        },
+        "personalSkills": {
+            "title": "Asmeniniai igudziai",
+            "skills": [
+                {
+                    "name": "TEAMWORK",
+                    "level": "advanced"
+                },
+                {
+                    "name": "COMMUNICATION",
+                    "level": "Intermediate"
+                },
+                {
+                    "name": "ORGANIZATION",
+                    "level": "Beginner"
+                }
+            ]
+        },
+        "technicalSkills": {
+            "title": "Techniniai Igudziai",
+            "skills": [
+                {
+                    "name": "HTML",
+                    "level": "advanced"
+                },
+                {
+                    "name": "CSS/SCSS",
+                    "level": "advanced"
+                },
+                {
+                    "name": "JAVASCRIPT",
+                    "level": "Beginner"
+                },
+                {
+                    "name": "REACT.JS",
+                    "level": "Beginner"
+                }
+            ]
+        }
+    }
+}

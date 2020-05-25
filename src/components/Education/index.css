@@ -1,0 +1,11 @@
+.Education {
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+}
+.Education li {
+    padding-top: 6px;
+}
+.Education .hr_dnone {
+    display: none;
+}

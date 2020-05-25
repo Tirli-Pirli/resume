@@ -1,0 +1,19 @@
+.Links {
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+}
+.d_align_c {
+    display: flex;
+    align-items: center;
+    padding-top: 6px;
+}
+.Links img {
+    width: 30px;
+  height: 30px;
+}
+.remove_txt_decor {
+    text-decoration: none;
+  color: black;
+  padding-left: 10px;
+}
